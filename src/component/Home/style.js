@@ -4,8 +4,8 @@ export const Container = styled.div`
 display:flex;
 justify-content: center;
 align-items: center;
-width: 100wh;
-height:50vh;
+width: 100%;
+height:100%;
 `
 
 export const Wrapper = styled.div`
